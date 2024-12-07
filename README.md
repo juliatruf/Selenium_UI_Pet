@@ -1,0 +1,1 @@
+This project automates web application testing using Python, Selenium WebDriver, and pytest, with a Page Object Model (POM) for maintainable and scalable tests. It supports user action simulation and test parameterization, enabling functional, UI, and negative testing.
